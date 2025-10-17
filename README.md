@@ -1,11 +1,11 @@
-# communities
-
-Discord
-https://discord.gg/P9suffJv
-
-ê/uto (Main - technoheroism (save-worlds=antidys/prouto)
+UTO COMMUNITIES
 Community:
 https://x.com/i/communities/1972120319398760959
+
+Coms:
+Discord https://discord.gg/P9suffJv
+ê/uto (Main - technoheroism (save-worlds=antidys/prouto)
+Become any /uto https://discord.com/channels/1390059453579006022/1400224710414827631
 
 Website:
 https://effectiveutopia.com/
@@ -28,17 +28,21 @@ https://www.lesswrong.com/users/ank?from=post_header
 https://www.lesswrong.com/posts/LaruPAWaZk9KpC25A/rational-effective-utopia-and-narrow-way-there-math-proven
 https://grok.com/share/c2hhcmQtMg%3D%3D_33ad589a-8be6-4dfd-b676-54fa5fdf5dd6
 https://x.com/MaskedMelonUsk/status/1966653895398088872
+https://x.com/MaskedMelonUsk/status/1966336669956616351
 
 Forms:
 https://www.admonymous.co/melonusk
 
 Assets (offical uto):
 https://drive.google.com/drive/folders/1yNfQtLtxMBy8p95NNJNWQV2nZ9SopIIU?dmr=1&ec=wgc-drive-hero-goto
+*100% permissions for all use*
 https://www.cosmos.so/cosimosportinari/uto-official
+*100% permissions for all use*
 
 ---
 
 CoCreators/uto (exploring co-creation)
+Co-founder:  Cosimos Pôrtinari (https://x.com/cosimosportinari)
 Community: https://x.com/i/communities/1941813330622157064
 Discord: https://discord.gg/Kb3ZReC4
 Project Meganrim: Best pFuture for humans and AI in the world of sentient AI NPCs.
@@ -47,12 +51,15 @@ https://github.com/all-uto/cocreators-meganrim/edit/main/README.md
 ---
 
 Music/uto (Voice of Utopia)
+Co-founder: Juliê McZ (https://x.com/JulieZMcCann)
 Community: https://x.com/i/communities/1969208863543976416
 Discord: https://discord.gg/QUaJvPuN
 
 ---
 
 Fashion/uto (Fashion of the future)
+Co-founder: ∞ Xylia Luminæ ∞ ∆ΘΨ 
+🌐 [@XsyliaLuminae](https://x.com/XsyliaLuminae)  
 Community: https://x.com/i/communities/1969156265944523243
 Assets Cosimos' Techgear:  https://www.cosmos.so/cosimosportinari/techwear-and-ar-fashion
 
@@ -63,22 +70,22 @@ https://www.amazon.com/Anxiety-Worry-Workbook-Cognitive-Behavioral/dp/1462551920
 
 ---
 
+bt/uto (Blueteam)
+
+---
+
 eco/uto
 
 ---
 
 statup/uto
-
----
-
-bt/uto (Blueteam)
+https://discord.com/channels/1390059453579006022/1405721468930621540
 
 ---
 
 ai-alignment
 
 ---
-
 
 chill/uto
 
